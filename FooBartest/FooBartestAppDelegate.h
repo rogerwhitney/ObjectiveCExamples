@@ -8,6 +8,8 @@
 
 #import <UIKit/UIKit.h>
 
+// cat mouse
+
 @interface FooBartestAppDelegate : NSObject <UIApplicationDelegate> {
 
 }

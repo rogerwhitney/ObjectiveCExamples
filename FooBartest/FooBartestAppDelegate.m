@@ -12,6 +12,7 @@
 
 @implementation FooBartestAppDelegate
 
+// cat mouse
 
 @synthesize window=_window;
 
