@@ -6,7 +6,6 @@
 //  Copyright 2011 San Diego State University. All rights reserved.
 //
 
-// edit 2
 
 // cat edit
 #import "FooBartestAppDelegate.h"
