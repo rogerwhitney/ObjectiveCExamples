@@ -39,20 +39,20 @@
 		81DEE61A13B83FED000F4235 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		81DEE61C13B83FED000F4235 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		81DEE61E13B83FED000F4235 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		81DEE62213B83FED000F4235 /* FooBartest-Info.plist */ = {isa = PBXFileReference; path = "FooBartest-Info.plist"; sourceTree = "<group>"; };
+		81DEE62213B83FED000F4235 /* FooBartest-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "FooBartest-Info.plist"; sourceTree = "<group>"; };
 		81DEE62413B83FED000F4235 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		81DEE62613B83FED000F4235 /* FooBartest-Prefix.pch */ = {isa = PBXFileReference; path = "FooBartest-Prefix.pch"; sourceTree = "<group>"; };
+		81DEE62613B83FED000F4235 /* FooBartest-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "FooBartest-Prefix.pch"; sourceTree = "<group>"; };
 		81DEE62713B83FED000F4235 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		81DEE62913B83FED000F4235 /* FooBartestAppDelegate.h */ = {isa = PBXFileReference; path = FooBartestAppDelegate.h; sourceTree = "<group>"; };
+		81DEE62913B83FED000F4235 /* FooBartestAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FooBartestAppDelegate.h; sourceTree = "<group>"; };
 		81DEE62A13B83FED000F4235 /* FooBartestAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FooBartestAppDelegate.m; sourceTree = "<group>"; };
 		81DEE62D13B83FED000F4235 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
-		81DEE62F13B83FED000F4235 /* RootViewController.h */ = {isa = PBXFileReference; path = RootViewController.h; sourceTree = "<group>"; };
+		81DEE62F13B83FED000F4235 /* RootViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RootViewController.h; sourceTree = "<group>"; };
 		81DEE63013B83FED000F4235 /* RootViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RootViewController.m; sourceTree = "<group>"; };
 		81DEE63313B83FED000F4235 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/RootViewController.xib; sourceTree = "<group>"; };
 		81DEE63A13B83FED000F4235 /* FooBartestTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FooBartestTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
-		81DEE64213B83FED000F4235 /* FooBartestTests-Info.plist */ = {isa = PBXFileReference; path = "FooBartestTests-Info.plist"; sourceTree = "<group>"; };
+		81DEE64213B83FED000F4235 /* FooBartestTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "FooBartestTests-Info.plist"; sourceTree = "<group>"; };
 		81DEE64413B83FED000F4235 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		81DEE64613B83FED000F4235 /* FooBartestTests-Prefix.pch */ = {isa = PBXFileReference; path = "FooBartestTests-Prefix.pch"; sourceTree = "<group>"; };
+		81DEE64613B83FED000F4235 /* FooBartestTests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "FooBartestTests-Prefix.pch"; sourceTree = "<group>"; };
 		81DEE64713B83FED000F4235 /* FooBartestTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FooBartestTests.h; sourceTree = "<group>"; };
 		81DEE64913B83FED000F4235 /* FooBartestTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FooBartestTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
