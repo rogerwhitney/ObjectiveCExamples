@@ -200,6 +200,7 @@
 		81DEE60D13B83FED000F4235 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastUpgradeCheck = 0420;
 				ORGANIZATIONNAME = "San Diego State University";
 			};
 			buildConfigurationList = 81DEE61013B83FED000F4235 /* Build configuration list for PBXProject "FooBartest" */;
@@ -446,6 +447,7 @@
 				81DEE64F13B83FED000F4235 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		81DEE65013B83FED000F4235 /* Build configuration list for PBXNativeTarget "FooBartestTests" */ = {
 			isa = XCConfigurationList;
@@ -454,6 +456,7 @@
 				81DEE65213B83FED000F4235 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
